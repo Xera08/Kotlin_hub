@@ -7,4 +7,9 @@ fun main() {
         println(language)
     }
 
+    println()
+    for (i in 0..3) { // ranges tutorial
+        println(languages[i])
+    }
+
 }
